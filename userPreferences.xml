@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<userPreferences version="1.1">
+  <string name="InitBrush" value="Chisel Tip Pen" default=""/>
+  <color name="InitColor" value="0.521569,0.901961,0.917647,1.000000" default="0.000000,0.000000,0.000000,1.000000"/>
+  <string name="LastBrush" value="Smudge Round Bristle Brush" default=""/>
+  <bool name="PenModeKey" value="false" default="false"/>
+  <bool name="SmoothMagnificationKey" value="true" default="true"/>
+  <bool name="ThreeFingerUndoRedo" value="true" default="true"/>
+</userPreferences>
